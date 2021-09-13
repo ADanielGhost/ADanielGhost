@@ -10,5 +10,5 @@ _CCNAv7: Switching, Routing, and Wireless Essentials_ (by CISCO), _Kotlin As Fir
 I'm programming in _Java, C#, SQL, PL/SQL and MatLab_. Now I'm learning _Spring Framework_.
 
 One of my biggest projects was _ARACE Method - a method for verbal decision analysis_.
-I've developed console project that can help you make decisions with big amount of criteria and alternatives.
+I've developed java console project that can help you make decisions with big amount of criteria and alternatives.
 In the future I'm planning finalize its functionality.
