@@ -1,16 +1,14 @@
-### Hi there 👋
+### About me ###
 
-<!--
-**ADanielGhost/ADanielGhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner Java-developer. At the present time I'm at university at 4th course.
+My faculty is called _Mathematical software and information systems administration_.
 
-Here are some ideas to get you started:
+I’m currently learning several courses on Coursera (ML and OOP in Java).
+Also I've finished following courses: _CCNAv7: Introduction to Networks_ and
+_CCNAv7: Switching, Routing, and Wireless Essentials_ (by CISCO), _Introduction to Kotlin_ (by Coursera).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm programming in _Java, C#, SQL, PL/SQL and MatLab_. Now I'm learning _Spring Framework_.
+
+One of my biggest projects was _ARACE Method - a method for verbal decision analysis_.
+I've developed console project that can help you make decisions with big amount of criteria and alternatives.
+In the future I'm planning finalize its functionality.
